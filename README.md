@@ -54,7 +54,7 @@ I'm a Computer Science student at Stevens Institute of Technology, graduating in
 </p>
 
 
-## 📌 Featured Projects
+## Featured Projects
 
 ### 🔹 [QuranQuest – Gamified Quran Learning App](https://github.com/Ayan-Mahmood/HackDI)  
 ** 2nd Place @ HackDI **  
