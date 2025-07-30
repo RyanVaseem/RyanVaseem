@@ -6,10 +6,10 @@ I'm a Computer Science student at Stevens Institute of Technology, graduating in
 
 ## 👨‍💻 What I Do
 
-- 🚀 Build full-stack applications using React, Firebase, Flutter, and Node.js
-- 🤖 Solve real-world problems with machine learning, NLP, and signal processing
-- 🌍 Collaborate on AI/ML and community-focused projects across industries
-- 💡 Continuously explore cutting-edge tools and frameworks to expand my skill set
+- Build full-stack applications using React, Firebase, Flutter, and Node.js
+- Solve real-world problems with machine learning, NLP, and signal processing
+- Collaborate on AI/ML and community-focused projects across industries
+- Continuously explore cutting-edge tools and frameworks to expand my skill set
 
 ---
 
@@ -24,18 +24,34 @@ I'm a Computer Science student at Stevens Institute of Technology, graduating in
 ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart)
 ![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=flat-square&logo=mathworks)
 
-### Frameworks & Libraries:
-React, Node.js, Firebase, TensorFlow, Scikit-learn, NumPy, Pandas, Flutter, Flask, Discord.js, Stripe API
 
-### Tools & Platforms:
-Git, GitHub, VS Code, Docker, Postman, MongoDB, Google Cloud, Azure, Linux, Render
+### 🧩 Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask)
+![Scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch)
+![Discord.js](https://img.shields.io/badge/-Discord.js-7289DA?style=flat-square&logo=discord)
 
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![Google Cloud](https://img.shields.io/badge/-GCP-4285F4?style=flat-square&logo=googlecloud)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
 ---
 
 ## 📌 Featured Projects
 
 ### 🔹 [QuranQuest – Gamified Quran Learning App](https://github.com/Ayan-Mahmood/HackDI)  
-**🏆 2nd Place @ HackDI (out of 40+ teams)**  
+** 2nd Place @ HackDI **  
 Built a Duolingo-style app for daily Quran learning with Firebase tracking, leaderboards, and community features.  
 **Tech Used:** React, JavaScript, Firebase, HTML/CSS  
 **My Contributions:**  
