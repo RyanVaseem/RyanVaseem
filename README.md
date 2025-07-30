@@ -1,6 +1,6 @@
-# Hi, I'm Ryan Vaseem 👋
+# Hi, I'm Ryan Vaseem 👋 Wlecom to my Github
 
-🎓 I'm a Computer Science student at Stevens Institute of Technology, graduating in 2026 (junior by credit). I'm passionate about software engineering, machine learning, and building impactful tools for real-world problems.  
+I'm a Computer Science student at Stevens Institute of Technology, graduating in 2026 (senior by credit, completing my degree in 3 years). I'm passionate about software engineering, machine learning, and building impactful tools for real-world problems.
 
 ---
 
