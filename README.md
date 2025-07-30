@@ -4,6 +4,10 @@ I'm a Computer Science student at Stevens Institute of Technology, graduating in
 
 ---
 
+I'm particularly interested in:
+- **Machine Learning / AI** – predictive modeling, NLP, signal processing, and model deployment  
+- **Software Engineering** – full-stack development, scalable systems, and backend architecture  
+- **Data Analysis** – extracting insights, building dashboards, and creating data-driven solutions  
 ## 👨‍💻 What I Do
 
 - Build full-stack applications using React, Firebase, Flutter, and Node.js
