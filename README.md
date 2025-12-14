@@ -8,7 +8,7 @@ I'm particularly interested in:
 - **Machine Learning / AI** – predictive modeling, NLP, signal processing, and model deployment  
 - **Software Engineering** – full-stack development, scalable systems, and backend architecture  
 - **Data Analysis** – extracting insights, building dashboards, and creating data-driven solutions  
-## 👨‍💻 What I Do
+## What I Do
 
 - Build full-stack applications using React, Firebase, Flutter, and Node.js
 - Solve real-world problems with machine learning, NLP, and signal processing
@@ -17,7 +17,7 @@ I'm particularly interested in:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages  
 <p>
@@ -82,7 +82,7 @@ A Discord bot that sends real-time reminders for new anime episodes and manga ch
 ---
 
 ### 🔹 [AI-Powered Event Recommender](https://github.com/JadenF5/Team-Lost-)  
-**🏁 Built at Stevens Institute of Technology’s “Technalify” Hackathon**  
+** Built at Stevens Institute of Technology’s “Technalify” Hackathon**  
 Recommends events based on user preferences and interest scoring using Azure AI.  
 **Tech Used:** Python, Azure AI, Playwright, HTML/CSS, JavaScript  
 **My Contributions:**  
