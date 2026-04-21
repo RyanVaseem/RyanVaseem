@@ -61,7 +61,7 @@ I'm particularly interested in:
 ## Featured Projects
 
 ### 🔹 [QuranQuest – Gamified Quran Learning App](https://github.com/Ayan-Mahmood/HackDI)  
-** 2nd Place @ HackDI **  
+2nd Place @ HackDI  
 Built a Duolingo-style app for daily Quran learning with Firebase tracking, leaderboards, and community features.  
 **Tech Used:** React, JavaScript, Firebase, HTML/CSS  
 **My Contributions:**  
@@ -82,7 +82,7 @@ A Discord bot that sends real-time reminders for new anime episodes and manga ch
 ---
 
 ### 🔹 [AI-Powered Event Recommender](https://github.com/JadenF5/Team-Lost-)  
-** Built at Stevens Institute of Technology’s “Technalify” Hackathon**  
+Built at Stevens Institute of Technology’s IT Quackathon*
 Recommends events based on user preferences and interest scoring using Azure AI.  
 **Tech Used:** Python, Azure AI, Playwright, HTML/CSS, JavaScript  
 **My Contributions:**  
