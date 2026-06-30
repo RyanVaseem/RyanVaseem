@@ -1,6 +1,6 @@
 # Hi, I'm Ryan Vaseem. Welcome to my GitHub
  
-I'm a Computer Science student at Stevens Institute of Technology (B.S. in Computer Science, Graduate Certificate in Machine Learning), graduating in May 2026 (senior by credit, completing my degree in 3 years). I'm passionate about software engineering, machine learning, and building impactful tools for real-world problems.
+I'm a Computer Science graduate of Stevens Institute of Technology (B.S. in Computer Science, Graduate Certificate in Machine Learning), graduating in May 2026 in just 3 years. I'm passionate about software engineering, machine learning, and building impactful tools for real-world problems.
  
 ---
  
